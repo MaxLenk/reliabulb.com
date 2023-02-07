@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Blog
 permalink: blog
@@ -11,6 +11,6 @@ permalink: blog
       <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
     </div>
   {% endfor %}
-</div>
+</div> -->
 
 
