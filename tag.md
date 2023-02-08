@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: tag
 title: Tags
-permalink: tag
+# permalink: tag
 ---
 
 {% for tag in site.tags %}
@@ -13,4 +13,4 @@ permalink: tag
   </ul>
 {% endfor %}
 
-
+ -->

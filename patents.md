@@ -30,7 +30,7 @@ patents:
     
 -   number: 8786169
     string: "8,786,169"
-    name: Anit-Reflective Coatings for Light Bulbs
+    name: Anti-Reflective Coatings for Light Bulbs
     
 -   number: 8760066
     string: "8,760,066"
