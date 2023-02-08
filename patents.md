@@ -150,12 +150,14 @@ patents:
 
 ---
 
-{% for patent in page.patents %}
 <div>
-    {{patent.string}}:
-    <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/{{patent.number}}" 
-    target="_blank" rel="noopener noreferrer"> 
-        "{{patent.name}}"
-    </a>
+    {% for patent in page.patents %}
+        <div>
+            {{patent.string}}:
+            <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/{{patent.number}}" 
+            target="_blank" rel="noopener noreferrer"> 
+                "{{patent.name}}"
+            </a>
+        </div>
+    {% endfor %}
 </div>
-{% endfor %}
