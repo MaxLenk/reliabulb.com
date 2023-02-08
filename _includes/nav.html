@@ -16,16 +16,20 @@
         <div class="flex hidden md:block" id="navbar">
             <div class="flex flex-col md:flex-row mr-auto w-full">
 
-                <a class="text-sm text-black hover:text-gray-900 px-3 py-2 lg:py-1 mx-auto uppercase"
-                    href="{{site.baseurl}}/">
-                    Home
+                <a href="{{site.baseurl}}/" class="text-sm text-black px-3 py-2 lg:py-1 mx-auto uppercase">
+                    <div class="relative p-4 rounded-full overflow-hidden grid place-content-center 
+                    transition-all duration-1000 bg-gradient-to-tl from-yellow-200 via-white to-white bg-size-200 bg-pos-0 hover:bg-pos-100">
+                        Home
+                    </div>
                 </a>
 
                 <!-- dynamic menu based on navigation info in _config.yml -->
                 {% for link in site.nav-menu %}
-                    <a class="text-sm text-black hover:text-gray-900 px-3 py-2 lg:py-1 mx-auto uppercase"
-                        href="{{site.baseurl}}/{{link.permalink}}">
+                    <a href="{{site.baseurl}}/{{link.permalink}}" class="text-sm text-black px-3 py-2 lg:py-1 mx-auto uppercase">
+                        <div class="relative p-4 rounded-full overflow-hidden grid place-content-center 
+                        transition-all duration-1000 bg-gradient-to-tl from-yellow-200 via-white to-white bg-size-200 bg-pos-0 hover:bg-pos-100">
                         {{link.text}}
+                        </div>
                     </a>
                 {% endfor %}
 
