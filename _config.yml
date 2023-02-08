@@ -7,7 +7,7 @@ title: "Ron Lenk"
 description: Invent. Design. Patent.
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone-600 # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Ron Lenk
