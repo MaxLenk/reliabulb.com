@@ -150,7 +150,7 @@ patents:
 
 ---
 
-<div>
+<div class="font-sans pl-32 pt-4 pb-16 prose-{{site.theme-color}}">
     {% for patent in page.patents %}
         <div>
             {{patent.string}}:

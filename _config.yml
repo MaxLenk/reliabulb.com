@@ -19,8 +19,8 @@ show-nav-menu: true
 nav-menu:
 - text: Patents
   permalink: patents
-- text: Papers
-  permalink: papers
+- text: Contact
+  permalink: contact
 
 # use false to turn off any social media links
 twitter: false
