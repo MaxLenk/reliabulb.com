@@ -150,12 +150,14 @@ patents:
 
 ---
 
-<div class="font-sans pl-32 pt-4 pb-16 prose-{{site.theme-color}}">
+<div class="grid grid-cols-8 font-sans pl-32 pt-4 pb-16 prose-{{site.theme-color}}">
     {% for patent in page.patents %}
-        <div>
+        <div class="col-span-1">
             {{patent.string}}:
+        </div>
+        <div class="col-span-7">
             <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/{{patent.number}}" 
-            target="_blank" rel="noopener noreferrer"> 
+            target="_blank" rel="noopener noreferrer" class="underline text-blue-600"> 
                 "{{patent.name}}"
             </a>
         </div>
