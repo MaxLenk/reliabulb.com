@@ -28,7 +28,10 @@ permalink: contact
             })
             .then(response => response.json())
             .then(response => {
-                if (response.riskAnalysis.score > 0.5){
+                if (!response.hasOwnProperty("riskAnalysis")){
+                    toggleModal("failure_modal");
+                    return false;
+                } else if (response.riskAnalysis.score > 0.5){
                     document.getElementById("contact_form").submit();
                     document.getElementById("contact_form").reset(); 
                     toggleModal("success_modal");
