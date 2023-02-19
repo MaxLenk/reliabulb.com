@@ -56,11 +56,19 @@ permalink: contact
     });
 </script>
 
-<div class="font-sans mx-auto max-w-prose px-4 pt-4 prose prose-{{site.theme-color}}">
+<div class="font-sans mx-auto max-w-prose px-4 pt-4 prose-{{site.theme-color}}">
     <div class="g:py-16 px-4 mx-auto max-w-screen-md">
-        <p class="mb-8 lg:mb-16 font-light text-center text-gray-600 sm:text-xl">
-            Power supply design, LED lighting, expert witness, and more. Contact me to see how I can help you.
+        <p class="font-light text-center text-gray-600 text-xl">
+            Power supply design, LED lighting, expert witness, and more. Contact me here to see how I can help you.
         </p>
+        <div class="grid place-content-center py-8">
+            <a href="{{site.linkedin}}" target="_blank" class="no-underline">
+                <div class="relative border border-black overflow-hidden rounded-full grid place-content-center prose transition-all
+                duration-500 bg-gradient-to-tl from-blue-300 via-gray-300 to-gray-300 bg-size-200 bg-pos-0 hover:bg-pos-100">
+                    <div class="text-base font-bold p-4">Or contact me on LinkedIn.</div>
+                </div>
+            </a>
+        </div>
         <form action="https://api.web3forms.com/submit" method="POST" id="contact_form" class="space-y-8" onsubmit="return formSubmit(event)" target="hiddenFrame">
             <input type="hidden" name="access_key" value="00f3e4c7-978e-4ccf-a8ca-5c3b9711cfb0">
             <input type="checkbox" name="botcheck" class="hidden" style="display: none;">

@@ -150,9 +150,9 @@ patents:
 
 ---
 
-<div class="grid grid-cols-8 font-sans pl-32 pt-4 pb-16 prose-{{site.theme-color}}">
+<div class="grid grid-cols-8 font-sans pl-32 pt-4 pb-16 prose-{{site.theme-color}} font-mono">
     {% for patent in page.patents %}
-        <div class="col-span-1">
+        <div class="col-span-1 text-right pr-4">
             {{patent.string}}:
         </div>
         <div class="col-span-7">
