@@ -1,9 +1,8 @@
-o---
+---
 layout: page
 title: Economics
 permalink: economics
 ---
-
 
 <div class="basis-2/3">
     <div class="font-sans mx-auto max-w-prose pt-4 text-center prose prose-{{site.theme-color}}">
