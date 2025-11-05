@@ -8,7 +8,7 @@ patents:
     string: "10,143,052"
     name: Light Emitting Diode (LED) Warm on Dim Circuit
 
-Other stuff goes here
+
 ---
 <div class="grid grid-cols-8 font-sans pl-32 pt-4 pb-16 prose-{{site.theme-color}} font-mono">
     {% for patent in page.patents %}
