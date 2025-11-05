@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Economics
-permalink: economics
+permalink: technology
 ---
 
 <div class="basis-2/3">
