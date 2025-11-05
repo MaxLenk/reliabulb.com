@@ -13,4 +13,5 @@ This data-driven book is not based on models nor on correlation coefficients. A 
       </p>
     </div>
 </div>
+\centering
 ![Population Chart](assets/img/Pop.jpg)
