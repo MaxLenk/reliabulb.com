@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Technology
-permalink: technology
+title: Economics
+permalink: economics
 ---
 
 <div class="basis-2/3">
@@ -13,3 +13,4 @@ This data-driven book is not based on models nor on correlation coefficients. A 
       </p>
     </div>
 </div>
+![Population Chart](assets/img/Pop.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
