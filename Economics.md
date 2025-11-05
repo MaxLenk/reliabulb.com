@@ -12,5 +12,6 @@ permalink: economics
 This data-driven book is not based on models nor on correlation coefficients. A variety of functions are optimized to fit the data, and the best function is selected using a new Information Criterion. These Hypotheses are used to make falsifiable predictions, some of which are already tested. Data analyzed include Population, Technology, GDP, the frequency and severity of Wars and Natural Catastrophes and a variety of others. A number of novel Hypotheses are derived from the models.
       </p>
     </div>
+    ![Population Chart](Pop.jpg)
 </div>
-![Population Chart](Pop.jpg)
+
