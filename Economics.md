@@ -3,6 +3,6 @@ layout: page
 title: Economics
 permalink: economics
 
-text:Economics stuff
+text: Economics stuff
 
 ---
