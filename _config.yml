@@ -17,12 +17,12 @@ author-image: reliabulb.jpg  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: Patents
-  permalink: patents
 - text: Economics
   permalink: economics
 - text: Technology
   permalink: technology
+- text: Patents
+  permalink: patents
 - text: Contact
   permalink: contact
 
@@ -46,4 +46,5 @@ google-analytics: false
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+
 
