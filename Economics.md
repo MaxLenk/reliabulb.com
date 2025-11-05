@@ -7,7 +7,7 @@ patents:
 -   number: 10143052
     string: "10,143,052"
     name: Light Emitting Diode (LED) Warm on Dim Circuit
-
+Economics stuff
 
 ---
 <div class="grid grid-cols-8 font-sans pl-32 pt-4 pb-16 prose-{{site.theme-color}} font-mono">
