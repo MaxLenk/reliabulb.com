@@ -15,3 +15,5 @@ This data-driven book is not based on models nor on correlation coefficients. A 
 </div>
 \centering
 ![Population Chart](assets/img/Pop.jpg)
+\raggedright
+\flushleft
