@@ -19,6 +19,10 @@ show-nav-menu: true
 nav-menu:
 - text: Patents
   permalink: patents
+- text: Economics
+  permalink: economics
+- text: Technology
+  permalink: technology
 - text: Contact
   permalink: contact
 
@@ -42,3 +46,4 @@ google-analytics: false
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+
