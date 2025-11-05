@@ -70,7 +70,7 @@ permalink: contact
             </a>
         </div>
         <form action="https://api.web3forms.com/submit" method="POST" id="contact_form" class="space-y-8" onsubmit="return formSubmit(event)" target="hiddenFrame">
-            <input type="hidden" name="access_key" value="00f3e4c7-978e-4ccf-a8ca-5c3b9711cfb0">
+            <input type="hidden" name="access_key" value="da4dc033-c216-47fd-a1f1-827d22411c04">
             <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
             <div>
                 <label for="email" class="block mb-2 text-sm font-medium text-gray-600">Your Email</label>
@@ -106,7 +106,7 @@ permalink: contact
       <!--body-->
       <div class="relative p-6 flex-auto">
         <p class="text-md text-black max-w-prose text-center">
-          Please contact me through my <a href="{{site.linkedin}}" target="_blank">LinkedIn profile</a>.
+          Please contact me through my <a href="{{site.linkedin}}" class="underline" target="_blank">LinkedIn profile</a>.
         </p>
       </div>
       <!--footer-->
