@@ -9,7 +9,7 @@ permalink: technology
       <div class="text-center text-3xl text-black">Electronics</div>
       <p class="text-black pb-5">
 I specialize in Electronics, and in particular Light, LEDs and Analog. I am the author of the best-selling "Practical Design of Power Supplies" and co-author of the best-selling "Practical Lighting Design with LEDs". 
-          My new "Supply-Chain Robust Power Supply Design: Procurable Components, Modern Performance, With Notes for the Hobbyist" will be available in February, 2026. I give a complete guide to making your design __robust against supply-chain issues without compromising performance__.
+          My new "Supply-Chain Robust Power Supply Design: Procurable Components, Modern Performance, With Notes for the Hobbyist" will be available in February, 2026. I give a complete guide to making your design <dont=bold> robust against supply-chain issues without compromising performance__.
           If you can't hire enough engineers or the ones you have are stuck, contact me. I can design it, or if you can't imagine how it could be done, I can invent it.
       </p>
 
