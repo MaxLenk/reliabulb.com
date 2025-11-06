@@ -18,8 +18,6 @@ This data-driven book is not based on models nor on correlation coefficients. A 
 
 <div class="basis-2/3">
     <div class="font-sans mx-auto max-w-prose pt-4 text-center prose prose-{{site.theme-color}}">
-      <div class="text-center text-3xl text-black">Foundations of the Science of Economics</div>
-      
       <p class="text-black pb-5">
 This graph is not based on similarities in shape. The individual best-fit models for both Population and Technology are determined first; they turn out to be power-laws. A relationship between the power-laws is observed, and then the relationship between Population and Technology is posited. The resulting graph shows that the relationship has some reality, as the predictions of Population by using the data on Technology match the Population data from the Census.
       </p>
