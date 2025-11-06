@@ -27,7 +27,7 @@ If you have an interesting idea or a problem that needs solving, please contact 
 
       <div class="text-center text-3xl text-black">Inventions</div>
       <p class="text-black pb-5">
-I am a professional inventor. I have 36 USA patents issued in my name. I can do patent searches to find obscure inventions that you may have overlooked. I can write patents with an engineer's perspective that you can't get from most patent attorneys. <br/> From new circuits to world-changing plans, if no one knows how to do it, contact me.
+I am a professional inventor. I have 36 USA patents in a variety of fields issued in my name. I can do patent searches to find obscure inventions that you may have overlooked. I can write patents with an engineer's perspective that you can't get from most patent attorneys. <br/> From new circuits to world-changing plans, if no one knows how to do it, contact me.
 
 <img width="4860" height="53" alt="image" src="https://github.com/user-attachments/assets/d9db4e7c-0067-4cb5-b1f9-073dd34a7c61" />
       </p>  
